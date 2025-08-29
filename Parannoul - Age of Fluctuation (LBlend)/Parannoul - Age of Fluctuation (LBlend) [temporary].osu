@@ -1,0 +1,64 @@
+﻿osu file format v128
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 278838
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1
+BeatDivisor: 4
+GridSize: 4
+TimelineZoom: 1.2279996871948242
+
+[Metadata]
+Title: Age of Fluctuation
+TitleUnicode: 격변의 시대
+Artist: Parannoul
+ArtistUnicode: 파란노을
+Creator: LBlend
+Version: temporary
+Tags: shoegaze korean korea sky pipe beautiful world analog sentimentalism to see the next part of the dream
+BeatmapID: 5281300
+BeatmapSetID: 2426084
+
+[Difficulty]
+HPDrainRate: 5.5
+CircleSize: 4.2
+OverallDifficulty: 5
+ApproachRate: 9.5
+SliderMultiplier: 0.9999999776482579
+SliderTickRate: 1
+
+[Events]
+0,0,"bg.jpg",0,0
+
+[TimingPoints]
+18267,285.7142857142857,4,1,0,100,1,0
+54838,285.7142857142857,4,1,0,100,1,0
+86838,285.7142857142857,4,1,0,100,1,0
+123410,285.7142857142857,4,1,0,100,1,0
+141696,285.7142857142857,4,1,0,100,1,0
+178267,285.7142857142857,4,1,0,100,1,0
+196553,571.4285714285714,4,1,0,100,1,0
+278838,285.7142857142857,4,1,0,100,1,1
+422838,285.7142857142857,4,1,0,100,1,1
+431981,285.7142857142857,4,1,0,100,1,1
+468553,285.7142857142857,4,1,0,100,1,1
+505124,285.7142857142857,4,1,0,100,1,1
+541691,285.7142857142857,4,1,0,100,1,1
+
+[Colours]
+Combo1: 255,192,0,255
+Combo2: 0,202,0,255
+Combo3: 18,124,255,255
+Combo4: 242,24,57,255
+
+[HitObjects]
+406,164,18267,6,0,L|302.53705:114.0401,1,100,0|0,1:0|1:0,1:0:0:0:
